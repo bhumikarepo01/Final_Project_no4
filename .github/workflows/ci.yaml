@@ -16,7 +16,7 @@ jobs:
       run: npm install && npm test
     
     - name: Build Docker Image
-      run: docker build -t YOUR_DOCKER_ID/my-cicd-app:${{github.sha}} .
+      run: docker build -t bhumika140/my-cicd-app:${{github.sha}} .
 
     - name: Log in to Docker Hub
       uses: docker/login-action@v2
