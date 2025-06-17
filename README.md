@@ -83,7 +83,9 @@ Screenshot_Server.png: The application is serving requests at http://localhost:3
 🟣 Summary
 This pipeline lets you:
   Push code and immediately deploy it to your local Kubernetes environment.
+  
   Automate testing, building, and delivery.
+  
   Integrate CI and CD practices without needing a huge production stack.
 
 
