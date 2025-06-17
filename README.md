@@ -24,20 +24,35 @@ This project demonstrates a **complete CI/CD pipeline** using:
 ---
 
 ## 🟣 Project Structure
+
 my-cicd-project/
+
 ├── .github/
+
 │ └─ workflows/
+
 │ └─ ci-cd.yaml
+
 ├── Dockerfile
+
 ├── package.json
+
 ├── server.js
+
 ├── service.yaml
+
 ├── deployment.yaml
+
 ├── screenshots/
+
 │ ├─ ci_pipeline.png
+
 │ ├─ dockerhub.png
+
 │ ├─ pod_output.png
+
 │ └─ server.png
+
 ├── README.md
 
 ## 🟣 CI Flow (Workflow)
@@ -82,6 +97,7 @@ Screenshot_Server.png: The application is serving requests at http://localhost:3
 
 🟣 Summary
 This pipeline lets you:
+
   Push code and immediately deploy it to your local Kubernetes environment.
   
   Automate testing, building, and delivery.
