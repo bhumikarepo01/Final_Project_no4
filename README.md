@@ -24,36 +24,24 @@ This project demonstrates a **complete CI/CD pipeline** using:
 ---
 
 ## 🟣 Project Structure
-
+<pre>
 my-cicd-project/
-
 ├── .github/
-
 │ └─ workflows/
-
 │ └─ ci-cd.yaml
-
 ├── Dockerfile
-
 ├── package.json
-
 ├── server.js
-
 ├── service.yaml
-
 ├── deployment.yaml
-
 ├── screenshots/
-
 │ ├─ ci_pipeline.png
-
 │ ├─ dockerhub.png
-
 │ ├─ pod_output.png
-
 │ └─ server.png
-
 ├── README.md
+
+</pre>
 
 ## 🟣 CI Flow (Workflow)
 
