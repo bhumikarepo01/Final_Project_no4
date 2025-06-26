@@ -62,6 +62,7 @@ minikube start
 2️⃣ Apply Deployment and Service to the Cluster:
 
 kubectl apply -f deployment.yaml
+
 kubectl apply -f service.yaml
 
 3️⃣ Forward port to view the application:
