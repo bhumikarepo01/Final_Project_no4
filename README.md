@@ -57,7 +57,7 @@ my-cicd-project/
 
 ### 2. Fork or Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/my-cicd-project.git
+git clone https://github.com/bhumikarepo01/Final_Project_no4.git
 cd my-cicd-project
 ```
 
