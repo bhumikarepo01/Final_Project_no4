@@ -72,7 +72,7 @@ kubectl port-forward service/my-service 3000:3000
 
 http://localhost:3000
 
-🟣 Screenshots
+## 🟣 Screenshots
 The screenshots/ directory contains:
 
 Screenshot_CI_pipeline.png: GitHub Actions pipeline successfully finished.
@@ -83,7 +83,7 @@ Screenshot_pod_output.png: The pod is up and running in Minikube.
 
 Screenshot_Server.png: The application is serving requests at http://localhost:3000.
 
-🟣 Summary
+## 🟣 Summary
 This pipeline lets you:
 
   Push code and immediately deploy it to your local Kubernetes environment.
