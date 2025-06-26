@@ -86,7 +86,7 @@ kubectl apply -f service.yaml
 
 ### 7. Port Forwarding
 ```bash
-kubectl port-forward service/my-service 3000:3000
+kubectl port-forward service/my-cicd-app 3000:80
 ```
 
 ### 8. View the App
